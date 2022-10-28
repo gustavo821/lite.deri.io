@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e77f8951.css",
-    "main.js": "/static/js/main.48ac150d.js",
+    "main.css": "/static/css/main.cc62489b.css",
+    "main.js": "/static/js/main.15cea24e.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.55f3fda88daf879cb042.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.933eb5074f1a88c4818e.svg",
@@ -40,6 +40,7 @@
     "static/media/SOL.svg": "/static/media/SOL.f7b923e20b4ebaefc1b5.svg",
     "static/media/AVAX.svg": "/static/media/AVAX.f5dc1c5a3d6e2a28ab1e.svg",
     "static/media/toast-warn.svg": "/static/media/toast-warn.0b5841625ff7237896b2.svg",
+    "static/media/feed-back.svg": "/static/media/feed-back.7029d1b9e13e413a6afc.svg",
     "static/media/LTC.svg": "/static/media/LTC.9b83fe3abc1c9cc79391.svg",
     "static/media/wallet-hover-bg.svg": "/static/media/wallet-hover-bg.2f6281e700d73001254e.svg",
     "static/media/btn-info.svg": "/static/media/btn-info.1a6d7bee159a55badd4a.svg",
@@ -85,7 +86,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.e77f8951.css",
-    "static/js/main.48ac150d.js"
+    "static/css/main.cc62489b.css",
+    "static/js/main.15cea24e.js"
   ]
 }
