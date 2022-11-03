@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fc16547a.css",
-    "main.js": "/static/js/main.025c8644.js",
+    "main.js": "/static/js/main.610cac73.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.55f3fda88daf879cb042.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.933eb5074f1a88c4818e.svg",
@@ -18,7 +18,7 @@
     "static/media/XRP.svg": "/static/media/XRP.62970816566f92a9712c.svg",
     "static/media/ADA.svg": "/static/media/ADA.16778aad2deaccebbc4f.svg",
     "static/media/ETH.svg": "/static/media/ETH.017d28018b651588b1af.svg",
-    "static/media/walletConnect.svg": "/static/media/walletConnect.304e327744ae5c9b1b62.svg",
+    "static/media/walletconnect.svg": "/static/media/walletconnect.304e327744ae5c9b1b62.svg",
     "static/media/APT.svg": "/static/media/APT.a04d7017efb5d0823517.svg",
     "static/media/SHIB.svg": "/static/media/SHIB.80da329ea54063cd7b92.svg",
     "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
@@ -87,6 +87,6 @@
   },
   "entrypoints": [
     "static/css/main.fc16547a.css",
-    "static/js/main.025c8644.js"
+    "static/js/main.610cac73.js"
   ]
 }
