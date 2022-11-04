@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.438b1a9d.css",
-    "main.js": "/static/js/main.de883719.js",
+    "main.css": "/static/css/main.58882e13.css",
+    "main.js": "/static/js/main.e1b3a4bf.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.55f3fda88daf879cb042.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.933eb5074f1a88c4818e.svg",
@@ -50,6 +50,7 @@
     "static/media/wallet.svg": "/static/media/wallet.83bdb62db1d19a82f5bb.svg",
     "static/media/telegram.svg": "/static/media/telegram.9aeec87f35d953409884.svg",
     "static/media/no-volatility.svg": "/static/media/no-volatility.cab9c7add96aa4bdf1a6.svg",
+    "static/media/warn.svg": "/static/media/warn.55ea5dfded9dc579b3b8.svg",
     "static/media/pnlUp.svg": "/static/media/pnlUp.067f9fff65185eaf96ae.svg",
     "static/media/medium.svg": "/static/media/medium.c6bcdb22cce368bc819d.svg",
     "static/media/pnlDown.svg": "/static/media/pnlDown.ba93ecd13dc298519b75.svg",
@@ -71,6 +72,7 @@
     "static/media/WBNB.svg": "/static/media/WBNB.a4a83ea597956a71d8b8.svg",
     "static/media/BNB.svg": "/static/media/BNB.c0727e0039d94702b399.svg",
     "static/media/drop-down.svg": "/static/media/drop-down.291a542785088742ee05.svg",
+    "static/media/search.svg": "/static/media/search.09d940054c58c4acb1c1.svg",
     "static/media/email.svg": "/static/media/email.8b8a984b7ad74c04e7ec.svg",
     "static/media/DERI.svg": "/static/media/DERI.6909977e481b8ceeaa7e.svg",
     "static/media/logo.svg": "/static/media/logo.6909977e481b8ceeaa7e7e519335149e.svg",
@@ -97,7 +99,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.438b1a9d.css",
-    "static/js/main.de883719.js"
+    "static/css/main.58882e13.css",
+    "static/js/main.e1b3a4bf.js"
   ]
 }
