@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9ad4aaf3.css",
-    "main.js": "/static/js/main.a11e14bf.js",
+    "main.js": "/static/js/main.e97e52c6.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.55f3fda88daf879cb042.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.933eb5074f1a88c4818e.svg",
@@ -100,6 +100,6 @@
   },
   "entrypoints": [
     "static/css/main.9ad4aaf3.css",
-    "static/js/main.a11e14bf.js"
+    "static/js/main.e97e52c6.js"
   ]
 }
