@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6364af9.css",
-    "main.js": "/static/js/main.32da5883.js",
+    "main.css": "/static/css/main.24c3b274.css",
+    "main.js": "/static/js/main.12f120b0.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.55f3fda88daf879cb042.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.933eb5074f1a88c4818e.svg",
@@ -34,6 +34,7 @@
     "static/media/metamask.svg": "/static/media/metamask.70d4a00c6c3aff008c22.svg",
     "index.html": "/index.html",
     "static/media/token-value-max.svg": "/static/media/token-value-max.3113b53c2d0d540f287b.svg",
+    "static/media/bsc-chain-logo.svg": "/static/media/bsc-chain-logo.1518b6e15da034eba90a.svg",
     "static/media/USDC.svg": "/static/media/USDC.ae015873138ffe4281cb.svg",
     "static/media/DOT.svg": "/static/media/DOT.d718b0bf1f4f5728f2bf.svg",
     "static/media/DOT copy.svg": "/static/media/DOT copy.ed1183d9de7018edc023.svg",
@@ -41,7 +42,6 @@
     "static/media/AVAX.svg": "/static/media/AVAX.f5dc1c5a3d6e2a28ab1e.svg",
     "static/media/toast-warn.svg": "/static/media/toast-warn.0b5841625ff7237896b2.svg",
     "static/media/feed-back.svg": "/static/media/feed-back.7029d1b9e13e413a6afc.svg",
-    "static/media/bsc-chain-logo.svg": "/static/media/bsc-chain-logo.70a31594a99a5772cfc3.svg",
     "static/media/LTC.svg": "/static/media/LTC.9b83fe3abc1c9cc79391.svg",
     "static/media/wallet-hover-bg.svg": "/static/media/wallet-hover-bg.2f6281e700d73001254e.svg",
     "static/media/btn-info.svg": "/static/media/btn-info.1a6d7bee159a55badd4a.svg",
@@ -91,15 +91,17 @@
     "static/media/toast-error.svg": "/static/media/toast-error.683d8a0e334f24683bbf.svg",
     "static/media/arrow-top-right.svg": "/static/media/arrow-top-right.eb1471cc7499ee2ee36f.svg",
     "static/media/toast-success.svg": "/static/media/toast-success.d9919d5e1e6a05ba2f77.svg",
+    "static/media/tab.svg": "/static/media/tab.6f1ec2a006202f75b9f0.svg",
     "static/media/arrow-down.svg": "/static/media/arrow-down.3242399ee4fa67534aa3.svg",
+    "static/media/m-tab.svg": "/static/media/m-tab.3e5f9332690672af3363.svg",
     "static/media/arrow-up.svg": "/static/media/arrow-up.978039f24e5085a46d6d.svg",
     "static/media/up-price.svg": "/static/media/up-price.e826d9a8109e331167ef.svg",
-    "static/media/down-price.svg": "/static/media/down-price.12df1655d090a15758d3.svg",
+    "static/media/down-price.svg": "/static/media/down-price.b49ec70966b0e7dc31e0.svg",
     "static/media/back.svg": "/static/media/back.ec550831b3562fbc4f37.svg",
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.a6364af9.css",
-    "static/js/main.32da5883.js"
+    "static/css/main.24c3b274.css",
+    "static/js/main.12f120b0.js"
   ]
 }
