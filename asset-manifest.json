@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c71d4c8c.css",
-    "main.js": "/static/js/main.4c1d7e76.js",
+    "main.css": "/static/css/main.a0669db2.css",
+    "main.js": "/static/js/main.8bb4d90f.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.55f3fda88daf879cb042.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.933eb5074f1a88c4818e.svg",
@@ -64,6 +64,7 @@
     "static/media/twitter.svg": "/static/media/twitter.50acb0271e7dbb9c4279.svg",
     "static/media/copy.svg": "/static/media/copy.0c074039861265c43df4.svg",
     "static/media/toast-pending.svg": "/static/media/toast-pending.8f145332e2a427300ccb.svg",
+    "static/media/copy-s.svg": "/static/media/copy-s.65effef83719f4225c94.svg",
     "static/media/collateral.svg": "/static/media/collateral.6880051c301b92182179.svg",
     "static/media/USDT.svg": "/static/media/USDT.6db8325183760d906430.svg",
     "static/media/switch.svg": "/static/media/switch.010f31bed1780ec3607b.svg",
@@ -101,7 +102,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.c71d4c8c.css",
-    "static/js/main.4c1d7e76.js"
+    "static/css/main.a0669db2.css",
+    "static/js/main.8bb4d90f.js"
   ]
 }
