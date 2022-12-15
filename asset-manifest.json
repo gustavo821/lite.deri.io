@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.221f4f6a.css",
-    "main.js": "/static/js/main.ed65e688.js",
+    "main.css": "/static/css/main.4251ce58.css",
+    "main.js": "/static/js/main.4dc41e66.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.c4a0de34e03e20116432.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.f207cf0b28ec61277389.svg",
@@ -10,7 +10,6 @@
     "static/media/BarlowSemiCondensed-Regular.ttf": "/static/media/BarlowSemiCondensed-Regular.28bce4c43f58ea98f789.ttf",
     "static/media/DOGE.svg": "/static/media/DOGE.f87b27a2eb0822f419c3.svg",
     "static/media/TUSD.svg": "/static/media/TUSD.d23073feabe475c7d2ab.svg",
-    "static/media/announcement-bg.png": "/static/media/announcement-bg.79499b89f5b66c03c43e.png",
     "static/media/XVS.svg": "/static/media/XVS.5896dc93d6bc4afee0e0.svg",
     "static/media/BABYDOGE.svg": "/static/media/BABYDOGE.6548e54a340845448409.svg",
     "static/media/CAKE.svg": "/static/media/CAKE.82e714df38ea84d07f6a.svg",
@@ -19,7 +18,6 @@
     "static/media/XRP.svg": "/static/media/XRP.831291d9541943710cfe.svg",
     "static/media/ADA.svg": "/static/media/ADA.57bd82637922e5be1690.svg",
     "static/media/ETH.svg": "/static/media/ETH.017d28018b651588b1af.svg",
-    "static/media/announcement-m.png": "/static/media/announcement-m.fbfc9f08c4dc6b3b2383.png",
     "static/media/walletconnect.svg": "/static/media/walletconnect.488dc369fbb265f431a7.svg",
     "static/media/APT.svg": "/static/media/APT.6d06cafc34b3fed41768.svg",
     "static/media/SHIB.svg": "/static/media/SHIB.80da329ea54063cd7b92.svg",
@@ -89,10 +87,10 @@
     "static/media/sell-short.svg": "/static/media/sell-short.bc874e3c6f172181799b.svg",
     "static/media/remove-gray.svg": "/static/media/remove-gray.c2cd621b5e3908c2395d.svg",
     "static/media/buy-long-gray.svg": "/static/media/buy-long-gray.4aff6ab6e4605268950b.svg",
+    "static/media/close-modal-icon.svg": "/static/media/close-modal-icon.cb82157429b8481cb6d8.svg",
     "static/media/buy-long.svg": "/static/media/buy-long.19092bca12c43381f159.svg",
     "static/media/remove.svg": "/static/media/remove.7e39513c3d3d73af31c0.svg",
     "static/media/success.svg": "/static/media/success.2e9c4dc21aa163c9dffe.svg",
-    "static/media/close-modal-icon.svg": "/static/media/close-modal-icon.1ac4285584b306425acd.svg",
     "static/media/toast-error.svg": "/static/media/toast-error.50b2d62499ec84436358.svg",
     "static/media/arrow-top-right.svg": "/static/media/arrow-top-right.d37931d2540e6fadf92c.svg",
     "static/media/toast-success.svg": "/static/media/toast-success.e84569ad721a7ba93a7b.svg",
@@ -106,7 +104,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.221f4f6a.css",
-    "static/js/main.ed65e688.js"
+    "static/css/main.4251ce58.css",
+    "static/js/main.4dc41e66.js"
   ]
 }
