@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f71ec83f.css",
-    "main.js": "/static/js/main.15a15982.js",
+    "main.js": "/static/js/main.18cf0ff9.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.c4a0de34e03e20116432.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.f207cf0b28ec61277389.svg",
@@ -34,6 +34,7 @@
     "static/media/metamask.svg": "/static/media/metamask.354e0086ec0ec0a4eb60.svg",
     "static/media/token-value-max.svg": "/static/media/token-value-max.cf4234dc3ae30220ed5d.svg",
     "index.html": "/index.html",
+    "static/media/BNB.svg": "/static/media/BNB.1f2d8869808f7fb780a2.svg",
     "static/media/bsc-chain-logo.svg": "/static/media/bsc-chain-logo.1f2d8869808f7fb780a2.svg",
     "static/media/USDC.svg": "/static/media/USDC.13d2a91d866a1b738904.svg",
     "static/media/DOT.svg": "/static/media/DOT.ea01c7e7592499838a3a.svg",
@@ -74,7 +75,6 @@
     "static/media/skip.svg": "/static/media/skip.b17924393214717b0333.svg",
     "static/media/drop-down-hover.svg": "/static/media/drop-down-hover.9a39d5e344112391e97a.svg",
     "static/media/WBNB.svg": "/static/media/WBNB.a4a83ea597956a71d8b8.svg",
-    "static/media/BNB.svg": "/static/media/BNB.c0727e0039d94702b399.svg",
     "static/media/drop-down.svg": "/static/media/drop-down.aaad5038960fa8d75156.svg",
     "static/media/search.svg": "/static/media/search.f636a35e8ef967cdf41d.svg",
     "static/media/email.svg": "/static/media/email.e08489287f584800acfd.svg",
@@ -105,6 +105,6 @@
   },
   "entrypoints": [
     "static/css/main.f71ec83f.css",
-    "static/js/main.15a15982.js"
+    "static/js/main.18cf0ff9.js"
   ]
 }
