@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e54846fb.css",
-    "main.js": "/static/js/main.5bb174d4.js",
+    "main.css": "/static/css/main.4c265808.css",
+    "main.js": "/static/js/main.811b03f6.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.c4a0de34e03e20116432.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.f207cf0b28ec61277389.svg",
@@ -32,6 +32,7 @@
     "static/media/slippage-setting.svg": "/static/media/slippage-setting.e0f7af219d3c18ecc7fd.svg",
     "static/media/DAI.svg": "/static/media/DAI.a6c3fb45029dfb38fd2c.svg",
     "static/media/metamask.svg": "/static/media/metamask.354e0086ec0ec0a4eb60.svg",
+    "static/media/reset.svg": "/static/media/reset.c5fc29bfc8fc3ed683fc.svg",
     "static/media/token-value-max.svg": "/static/media/token-value-max.cf4234dc3ae30220ed5d.svg",
     "index.html": "/index.html",
     "static/media/BNB.svg": "/static/media/BNB.1f2d8869808f7fb780a2.svg",
@@ -41,6 +42,7 @@
     "static/media/DOT copy.svg": "/static/media/DOT copy.a8bc602700a9e67c2384.svg",
     "static/media/SOL.svg": "/static/media/SOL.b69fe6d6be0a368f5ad6.svg",
     "static/media/AVAX.svg": "/static/media/AVAX.6f864acc0daa03b279b1.svg",
+    "static/media/tab-option.svg": "/static/media/tab-option.9289b63deb89f1097961.svg",
     "static/media/toast-warn.svg": "/static/media/toast-warn.53f6ad6e827fc3bbd4c8.svg",
     "static/media/feed-back.svg": "/static/media/feed-back.7c7784624db8b43f0b71.svg",
     "static/media/LTC.svg": "/static/media/LTC.4c207047fe24597ceeb1.svg",
@@ -104,7 +106,7 @@
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg"
   },
   "entrypoints": [
-    "static/css/main.e54846fb.css",
-    "static/js/main.5bb174d4.js"
+    "static/css/main.4c265808.css",
+    "static/js/main.811b03f6.js"
   ]
 }
