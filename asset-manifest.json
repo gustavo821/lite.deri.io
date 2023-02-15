@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9c6c0c61.css",
-    "main.js": "/static/js/main.aaec3419.js",
+    "main.js": "/static/js/main.97ceb8b4.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/APE.svg": "/static/media/APE.55f3fda88daf879cb042.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.933eb5074f1a88c4818e.svg",
@@ -40,6 +40,7 @@
     "static/media/BNB.svg": "/static/media/BNB.1518b6e15da034eba90a.svg",
     "static/media/bsc-chain-logo.svg": "/static/media/bsc-chain-logo.1518b6e15da034eba90a.svg",
     "static/media/USDC.svg": "/static/media/USDC.ae015873138ffe4281cb.svg",
+    "static/media/work-order.svg": "/static/media/work-order.721060ec6549c7d3542e.svg",
     "static/media/DOT.svg": "/static/media/DOT.d718b0bf1f4f5728f2bf.svg",
     "static/media/DOT copy.svg": "/static/media/DOT copy.ed1183d9de7018edc023.svg",
     "static/media/SOL.svg": "/static/media/SOL.f7b923e20b4ebaefc1b5.svg",
@@ -54,6 +55,7 @@
     "static/media/ETC.svg": "/static/media/ETC.788244dbf87cc0ef693c.svg",
     "static/media/wallet.svg": "/static/media/wallet.83bdb62db1d19a82f5bb.svg",
     "static/media/telegram.svg": "/static/media/telegram.9aeec87f35d953409884.svg",
+    "static/media/lang-icon.svg": "/static/media/lang-icon.2c64ed512594a50b5ade.svg",
     "static/media/hint.svg": "/static/media/hint.0513bd8e9951007e446d.svg",
     "static/media/no-volatility.svg": "/static/media/no-volatility.cab9c7add96aa4bdf1a6.svg",
     "static/media/warn.svg": "/static/media/warn.55ea5dfded9dc579b3b8.svg",
@@ -110,6 +112,6 @@
   },
   "entrypoints": [
     "static/css/main.9c6c0c61.css",
-    "static/js/main.aaec3419.js"
+    "static/js/main.97ceb8b4.js"
   ]
 }
